@@ -76,9 +76,9 @@
 
 **Posso mostrare il testo su una TV?** Sì, con il **monitor pubblico** su un secondo schermo.
 
-**Posso creare basi karaoke da una mia canzone?** Sì: **separa la voce dagli strumenti** e **genera il testo sincronizzato**.
+**Posso creare basi karaoke da una mia canzone?** Sì: **Insieme al software c'è la possibilità di accedere alla piattaforma "https://karadom.it/karaokecreator" che permette, con l'acquisto di crediti, di separare la voce dagli strumenti** e **genera il testo sincronizzato**.
 
-**Va bene per serate professionali?** Sì: playlist, richieste, doppio schermo e mixer **XR18/ASIO**.
+**Va bene per serate professionali?** Sì: playlist, richieste, doppio schermo
 
 ---
 
@@ -144,9 +144,9 @@
 
 **Can I show lyrics on a TV / second screen?** Yes, with the **audience monitor**.
 
-**Can I create karaoke from my own song?** Yes: **separate vocals from instruments** and **auto-generate synced lyrics**.
+**Can I create karaoke tracks from my own songs?** Yes: **Along with the software, you can access the "https://karadom.it/karaokecreator" platform which, by purchasing credits, allows you to separate the vocals from the instruments** and **generate synchronized lyrics**.
 
-**Is it good for professional karaoke nights?** Absolutely: playlists, requests, dual screen, and **XR18/ASIO** mixer support.
+**Is it good for professional karaoke nights?** Absolutely: playlists, requests, dual screen,
 
 ---
 
